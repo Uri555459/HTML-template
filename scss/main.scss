@@ -1,0 +1,14 @@
+@import "vars";
+@import "settings";
+@import "blocks/header";
+@import "blocks/burger";
+@import "blocks/accordion";
+// @import "blocks/lang";
+
+@import "blocks/footer";
+
+// !============ Media =================
+@import "blocks/@media/_992";
+@import "blocks/@media/_768";
+@import "blocks/@media/_576";
+@import "blocks/@media/_425";
